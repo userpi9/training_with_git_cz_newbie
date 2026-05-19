@@ -1,0 +1,2 @@
+# training_with_git_cz_newbie
+I use this repo as a git training not more.
