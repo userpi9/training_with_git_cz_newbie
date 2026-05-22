@@ -1,1 +1,2 @@
 hi from foo.txt
+lofi test
